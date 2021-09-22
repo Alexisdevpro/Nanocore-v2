@@ -1,8 +1,11 @@
 # NanoCore
-NanoCore 1.0.3.0 RAT sample malware for research purposes.
+NanoCore 1.0.3.0 RAT new update.
+Add new plugins fonctions.
 
-It will be detected by your AV.
+Detect by Windows Defender.
 
-Dont file complaints.
+Contact me Discord : Alexis ツ#0791
 
+
+An educational purpose, I am not responsible !!!!!!!!
 
