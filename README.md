@@ -1,5 +1,5 @@
 # NanoCore
-NanoCore 1.0.3.0 RAT new update.
+NanoCore 2.0.3.0 RAT new update.
 Add new plugins fonctions.
 
 Detect by Windows Defender.
